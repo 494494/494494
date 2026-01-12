@@ -26,6 +26,39 @@
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=494494&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=494494&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
+</p>
+
+---
+
+## 📈 Languages I Work With
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=494494&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" 
+  />
+</p>
+
+<p align="center">
+  <sub>Focused on core CS foundations: Java • C/C++ • DSA • OOP</sub>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=494494&theme=onedark&no-frame=true&row=1&column=5&margin-w=10" 
+  />
+</p>
 
 
 ---
