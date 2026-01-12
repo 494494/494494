@@ -29,12 +29,12 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=494494&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=494494&show_icons=true&theme=tokyonight&hide_border=true"
     height="165"
     alt="GitHub stats"
   />
   <img
-    src="https://streak-stats.demolab.com?user=494494&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    src="https://streak-stats.demolab.com?user=494494&theme=tokyonight&hide_border=true"
     height="165"
     alt="GitHub streak"
   />
@@ -45,7 +45,7 @@
 ## 📈 Languages I Work With
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=494494&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=494494&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top languages"
   />
 </p>
@@ -59,10 +59,11 @@
 ## 🏆 GitHub Achievements
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=494494&theme=onedark&no-frame=true&margin-w=10"
+    src="https://github-profile-trophy.vercel.app/?username=494494&theme=onedark&no-frame=true"
     alt="GitHub trophies"
   />
 </p>
+
 
 
 
