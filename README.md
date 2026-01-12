@@ -10,22 +10,27 @@
 
 ---
 
-## 🐍 Contribution Activity
+## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/494494/494494/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img
+    src="https://ghchart.rshah.org/494494"
+    alt="GitHub Contributions"
+  />
 </p>
+
 
 ---
 
-## 🐍 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/494494/494494/output/github-contribution-grid-snake-dark.svg"
-    alt="Snake animation"
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=494494&theme=tokyo-night&hide_border=true&area=true"
+    alt="activity graph"
   />
 </p>
+
 
 
 ---
