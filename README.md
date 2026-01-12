@@ -14,6 +14,10 @@
 
 <p align="center">
   <img src="https://ghchart.rshah.org/494494?year=2026" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=494494&hide=issues,prs&show_icons=true&theme=tokyonight"
+    alt="GitHub contribution stats"
+  />
 </p>
 
 
