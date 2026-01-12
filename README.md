@@ -10,14 +10,12 @@
 
 ---
 
-## 📊 Contribution Activity
+## 📊 Contribution Activity (2026)
 
 <p align="center">
-  <img
-    src="https://ghchart.rshah.org/494494"
-    alt="GitHub Contributions"
-  />
+  <img src="https://ghchart.rshah.org/494494?year=2026" />
 </p>
+
 
 
 ---
