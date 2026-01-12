@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech CSE Student  
+- 🎓 CSE Student  
 - 💻 Currently learning **Java, DBMS, Spring Boot**
 - 🔐 Interested in **Cyber Security & Cloud**
 - 🛠️ Building projects & exploring open source
@@ -21,7 +21,7 @@
 
 ## 🧠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,html,css,js,bootstrap,mysql,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,c,mysql,git,github,linux" />
 </p>
 
 ---
@@ -50,29 +50,12 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/giri-umesh-4a31b7317/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+  <!-- <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
+  </a> -->
 </p>
 
 ---
-
-## ✨ Quote
-> *"Code. Learn. Build. Repeat."* 💻🔥
-
-**494494/494494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
